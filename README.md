@@ -1,15 +1,5 @@
 # olivier
 
-**Quantum Black**
-
-# DevOps Engineer Test
-
-A few rules
-    1. Feel free to use google
-    2. Don't copy code
-    3. Keep it short, I don't expect an essay
-    4. Your answers should be accessible in version control system of your choice
-
 ## Explain in your opinion the differences and advantages/disadvantages between:
 
 **Ansible**

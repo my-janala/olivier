@@ -1,0 +1,6 @@
+---
+- hosts: "tag_env_{{env}}"
+  become: true
+
+  roles:
+    - ntp
