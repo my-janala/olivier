@@ -50,9 +50,17 @@ Mesos offers many of the features that you would expect from a cluster manager, 
 
 **Kubernetes**
 
-**Swarm **
+According to the Kubernetes.io, "Kubernetes is an open-source platform for automating deployment, scaling, and operations of application containers across clusters of hosts, providing container-centric infrastructure."
+
+Kubernetes can be implemented on any platform: public, private, hybrid cloud or on Data Centres. It is a Container Orchestration tool.
+
+**Swarm**
+
+Docker Swarm is native clustering for Docker. It turns a pool of Docker hosts into a single, virtual host.
 
 **Framework of your choice**
+
+At this stage, there isn't a clear winner for me. It all depends on my requirement, platform and ease of deployment. Having said that, I prefer Kubernetes as I find it's
 
 Order the following from the slowest to the fastest operation
 
