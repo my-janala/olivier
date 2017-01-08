@@ -48,10 +48,11 @@ Mesos offers many of the features that you would expect from a cluster manager, 
 * Scheduler Service - Efficient CPU and memory-aware resource scheduling.
 * Uses Apache ZooKeeper for Service Availability.
 
-* Kubernetes
+**Kubernetes**
 
-* Swarm
-* Framework of your choice
+**Swarm **
+
+**Framework of your choice**
 
 Order the following from the slowest to the fastest operation
 
@@ -71,7 +72,7 @@ iostat, iowait, iotop.
 3. Networking and Packet loss
 `$ netstat -s | egrep -i 'loss|retran'`
  
-In your words - What is DevOps?
+**In your words - What is DevOps?**
 
 In DevOps, Ops and Ops work together with a common goal of bringing new features to product line through collaboration, understanding and sharing knowledge together. DevOps a practice, it's something you do. It's not a role, nor a team.  
 
@@ -85,9 +86,10 @@ Though I am instructed not to copy/paste, I find that the definition here http:/
 * Integrates via well-known interfaces
 * Owns its own data storage
 
-Exercises
+## Exercises
 
 Generate 100 files with random data
+
     1. Every 5th file should contain "Nothing to see here".
     2. Every 11th file should contain the contents of all previous files.
     3. Random data files should not exceed 512 characters in text.
