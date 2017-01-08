@@ -71,13 +71,13 @@ Order the following from the slowest to the fastest operation
  
 List commands for the following common tasks:
 
-1. Resource issue diagnostics
+1. Resource issue diagnostics <br>
 top, htop, free, iostat, vmstat, ps, sar
 
-2. IO and IO/wait related issues
+2. IO and IO/wait related issues<br>
 iostat, iowait, iotop.
 
-3. Networking and Packet loss
+3. Networking and Packet loss<br>
 `$ netstat -s | egrep -i 'loss|retran'`
  
 **In your words - What is DevOps?**
