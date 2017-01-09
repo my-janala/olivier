@@ -83,7 +83,7 @@ iostat, iowait, iotop.
 
 **In your words - What is DevOps?**
 
-In DevOps, Ops and Ops work together with a common goal of bringing new features to product line through collaboration, understanding and sharing knowledge together. DevOps a practice, it's something you do. It's not a role, nor a team.  
+In DevOps, Ops and Devs work together with a common goal of bringing new features to product line through collaboration, understanding and sharing knowledge together. DevOps a practice, it's something you do. It's not a role, nor a team.  
 
 **What are MicroServices?**
 
